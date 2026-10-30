@@ -14,6 +14,10 @@ const appointmentSchema = new mongoose.Schema(
       type: String,
       required: true,
       enum: [
+        'In-Studio Eye Exam',
+        'Contact Lens Clinic',
+        'Myopia Management Consult',
+        'Prescription Spectacles Fitting',
         'In-Store Eye Test',
         'Home Eye Test',
         'Prescription Check & Frame Fitting',
