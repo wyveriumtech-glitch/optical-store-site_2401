@@ -128,7 +128,7 @@ export default function BookAppointmentPage() {
 
   const getWhatsAppConfirmationMessage = (data) => {
     const text = `Hello OptoArtist Studio! I have scheduled an eye exam appointment (Ref: *${data.referenceCode}*) for *${data.serviceType}* on *${data.date}* at *${data.timeSlot}*. Looking forward to my session with Optom. Akash Arjun Sawant.`;
-    return `https://wa.me/919876543210?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/919921333609?text=${encodeURIComponent(text)}`;
   };
 
   return (

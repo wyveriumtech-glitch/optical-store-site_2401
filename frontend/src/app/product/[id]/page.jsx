@@ -91,7 +91,7 @@ export default function ProductDetailPage() {
 
   const getWhatsAppProductLink = () => {
     const text = `Hello OptoArtist Studio! I would like to order/inquire about the *${product.name}* (${product.atelier || 'Atelier Signature'}) with *${selectedLens.name}* (Total: ₹${totalPrice.toLocaleString('en-IN')}). Link: http://localhost:3000/product/${product.slug || product._id}`;
-    return `https://wa.me/919876543210?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/919921333609?text=${encodeURIComponent(text)}`;
   };
 
   return (

@@ -87,7 +87,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <strong className="text-white block font-medium">Studio Telephone:</strong>
-                    <span className="text-neutral-400 block mt-0.5">+91 98765 43210</span>
+                    <span className="text-neutral-400 block mt-0.5">+91 99213 33609</span>
                   </div>
                 </div>
 
@@ -105,7 +105,7 @@ export default function ContactPage() {
               {/* Instant WhatsApp Button */}
               <div className="pt-2">
                 <a
-                  href="https://wa.me/919876543210?text=Hello%20OptoArtist%20Studio,%20I%20would%20like%20to%20consult%20with%20Optom.%20Akash"
+                  href="https://wa.me/919921333609?text=Hello%20OptoArtist%20Studio,%20I%20would%20like%20to%20consult%20with%20Optom.%20Akash"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-3.5 px-4 rounded-full bg-white/[0.04] hover:bg-white/[0.08] border border-white/[0.12] text-white font-medium text-xs tracking-wider uppercase flex items-center justify-center space-x-2 transition-all"

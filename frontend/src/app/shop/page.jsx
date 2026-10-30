@@ -127,7 +127,7 @@ function ShopContent() {
   const getWhatsAppProductLink = (prod) => {
     const price = prod.discountPrice || prod.price;
     const msg = `Hello OptoArtist Studio, I would like to inquire about the *${prod.name}* (₹${price.toLocaleString('en-IN')}). Is this piece available for in-studio trial? Link: http://localhost:3000/product/${prod.slug || prod._id}`;
-    return `https://wa.me/919876543210?text=${encodeURIComponent(msg)}`;
+    return `https://wa.me/919921333609?text=${encodeURIComponent(msg)}`;
   };
 
   return (

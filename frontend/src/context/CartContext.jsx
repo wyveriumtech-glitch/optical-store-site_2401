@@ -93,7 +93,7 @@ export const CartProvider = ({ children }) => {
 
   // WhatsApp Order message builder
   const generateWhatsAppCheckoutUrl = (customerName = '', customerPhone = '') => {
-    const phone = '919876543210'; // Store official contact
+    const phone = '919921333609'; // Store official contact
     let message = `*✨ OPTOARTIST — NEW EYEWEAR ORDER ENQUIRY*\n`;
     if (customerName) message += `*Customer:* ${customerName} (${customerPhone})\n`;
     message += `--------------------------------\n`;

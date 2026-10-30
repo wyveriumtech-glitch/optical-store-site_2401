@@ -81,7 +81,7 @@ export default function Footer() {
 
           <div className="pt-2">
             <a
-              href="https://wa.me/919876543210?text=Hello%20OptoArtist%20Studio,%20I%20would%20like%20to%20consult%20with%20Optom.%20Akash"
+              href="https://wa.me/919921333609?text=Hello%20OptoArtist%20Studio,%20I%20would%20like%20to%20consult%20with%20Optom.%20Akash"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 px-4 py-2.5 rounded-full bg-white/[0.04] hover:bg-white/[0.08] border border-white/[0.12] text-white text-xs font-medium tracking-wide transition-all"
@@ -185,7 +185,7 @@ export default function Footer() {
             </p>
             <p className="flex items-center space-x-2">
               <Phone className="w-3.5 h-3.5 text-champagne flex-shrink-0" />
-              <span>+91 98765 43210</span>
+              <span>+91 99213 33609</span>
             </p>
             <p className="flex items-center space-x-2">
               <Mail className="w-3.5 h-3.5 text-champagne flex-shrink-0" />

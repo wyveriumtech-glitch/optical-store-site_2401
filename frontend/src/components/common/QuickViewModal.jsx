@@ -28,7 +28,7 @@ export default function QuickViewModal({ product, isOpen, onClose }) {
 
   const getWhatsAppProductLink = () => {
     const text = `Hello OptoArtist Studio, I am interested in the *${product.name}* (₹${currentPrice.toLocaleString('en-IN')}). Can you confirm availability for in-studio trial? Link: http://localhost:3000/product/${product.slug || product._id}`;
-    return `https://wa.me/919876543210?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/919921333609?text=${encodeURIComponent(text)}`;
   };
 
   return (

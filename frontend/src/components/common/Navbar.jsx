@@ -65,7 +65,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center space-x-6 text-neutral-400 font-light">
             <Link href="/contact" className="hover:text-gold-300 transition-colors flex items-center space-x-1.5">
               <PhoneCall className="w-3 h-3 text-gold-400" />
-              <span>Studio: +91 98765 43210</span>
+              <span>Studio: +91 99213 33609</span>
             </Link>
             <span className="text-neutral-700">|</span>
             <Link

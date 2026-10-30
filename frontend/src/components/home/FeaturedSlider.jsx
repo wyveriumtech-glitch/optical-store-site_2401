@@ -17,7 +17,7 @@ export default function FeaturedSlider({ products = [] }) {
   const getWhatsAppProductLink = (prod) => {
     const price = prod.discountPrice || prod.price;
     const msg = `Hello OptoArtist, I am inquiring about the *${prod.name}* (₹${price.toLocaleString('en-IN')}). Is this available for trial? Link: http://localhost:3000/product/${prod.slug || prod._id}`;
-    return `https://wa.me/919876543210?text=${encodeURIComponent(msg)}`;
+    return `https://wa.me/919921333609?text=${encodeURIComponent(msg)}`;
   };
 
   return (

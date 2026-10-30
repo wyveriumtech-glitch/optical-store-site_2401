@@ -280,7 +280,7 @@ export default function ServicesPage() {
             </Link>
 
             <a
-              href="https://wa.me/919876543210?text=Hello%20OptoArtist%20Studio,%20I%20have%20questions%20regarding%20Zeiss%20Blue-Cut%20and%20Progressive%20lenses"
+              href="https://wa.me/919921333609?text=Hello%20OptoArtist%20Studio,%20I%20have%20questions%20regarding%20Zeiss%20Blue-Cut%20and%20Progressive%20lenses"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3.5 rounded-full bg-white/[0.04] hover:bg-white/[0.08] border border-white/[0.12] text-white font-medium text-xs uppercase tracking-wider flex items-center justify-center space-x-2 transition-colors"
