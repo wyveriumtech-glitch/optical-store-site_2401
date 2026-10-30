@@ -178,7 +178,10 @@ export default function Footer() {
           <div className="space-y-2.5 text-xs font-light">
             <p className="flex items-start space-x-2">
               <MapPin className="w-3.5 h-3.5 text-champagne flex-shrink-0 mt-0.5" />
-              <span>Salvi Stop, Ratnagiri, Maharashtra 415612</span>
+              <span>
+                Shop no. 13, Navkar Enclave, Ratnagiri - Solapur Hwy, opp. Kotak Mahindra Bank,
+                Maruti Mandir, State Bank Colony, Ratnagiri, Maharashtra 415639
+              </span>
             </p>
             <p className="flex items-center space-x-2">
               <Phone className="w-3.5 h-3.5 text-champagne flex-shrink-0" />

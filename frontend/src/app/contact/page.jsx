@@ -64,7 +64,8 @@ export default function ContactPage() {
                   <div>
                     <strong className="text-white block font-medium">Studio Address:</strong>
                     <span className="text-neutral-400 leading-relaxed block mt-0.5">
-                      Salvi Stop, Ratnagiri, Maharashtra 415612
+                      Shop no. 13, Navkar Enclave, Ratnagiri - Solapur Hwy, opp. Kotak Mahindra Bank,
+                      Maruti Mandir, State Bank Colony, Ratnagiri, Maharashtra 415639
                     </span>
                   </div>
                 </div>
@@ -216,10 +217,10 @@ export default function ContactPage() {
           <div className="p-4 bg-obsidian-850 border-b border-white/10 flex items-center justify-between">
             <div className="flex items-center space-x-2 text-xs text-gold-400 font-semibold uppercase tracking-wider">
               <Navigation className="w-4 h-4" />
-              <span>Flagship Boutique Promenade Satellite Map</span>
+              <span>Store Location Map</span>
             </div>
             <a
-              href="https://maps.google.com"
+              href="https://www.google.com/maps/search/?api=1&query=Shop%20no.%2013%2C%20Navkar%20Enclave%2C%20Ratnagiri%20-%20Solapur%20Hwy%2C%20opp.%20Kotak%20Mahindra%20Bank%2C%20Maruti%20Mandir%2C%20State%20Bank%20Colony%2C%20Ratnagiri%2C%20Maharashtra%20415639"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs text-neutral-400 hover:text-white underline"
@@ -230,7 +231,7 @@ export default function ContactPage() {
 
           <div className="relative aspect-[21/9] sm:aspect-[24/8] w-full">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1680000000000!5m2!1sen!2sus"
+              src="https://www.google.com/maps?q=Shop%20no.%2013%2C%20Navkar%20Enclave%2C%20Ratnagiri%20-%20Solapur%20Hwy%2C%20opp.%20Kotak%20Mahindra%20Bank%2C%20Maruti%20Mandir%2C%20State%20Bank%20Colony%2C%20Ratnagiri%2C%20Maharashtra%20415639&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0, filter: 'invert(90%) hue-rotate(180deg)' }}
